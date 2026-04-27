@@ -1,0 +1,6 @@
+QQ = input()
+w = input()
+e = input()
+print(QQ)
+print(w)
+print(e)
