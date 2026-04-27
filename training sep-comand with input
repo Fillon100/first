@@ -1,0 +1,5 @@
+q=input()
+w=input()
+e=input()
+r=input()
+print(w , e , r , sep=q)
