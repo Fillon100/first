@@ -1,0 +1,4 @@
+q = input() 
+print (int(q))
+print(int(q)+ 1)
+print(int(q)+ 1 + 1)
