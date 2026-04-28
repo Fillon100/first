@@ -1,0 +1,5 @@
+q = input()
+w = input()
+e = input()
+print (int(q) + int(w) + int(e))
+#This is very simple caculator for 3 numbers
